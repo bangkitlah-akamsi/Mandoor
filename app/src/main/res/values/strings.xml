@@ -1,3 +1,36 @@
 <resources>
     <string name="app_name">Mandoor</string>
+
+    <!--  note: dummy text  -->
+    <string name="img">dummy text for image</string>
+
+    <!--  note: service layout  -->
+    <string name="camera_fail">Failed to open camera.</string>
+    <string name="capture_fail">Failed to capture image.</string>
+
+    <string name="btn_enabled">SUBMIT</string>
+    <string name="btn_disabled">INVALID INPUT</string>
+
+    <string name="permission_true">Permission request granted</string>
+    <string name="permission_false">Permission request denied</string>
+
+    <!--  note: array  -->
+    <string-array name="kecamatan">
+        <item>Serengan</item>
+        <item>Laweyan</item>
+        <item>Pasar Kliwon</item>
+        <item>Jebres</item>
+        <item>Banjarsari</item>
+    </string-array>
+
+    <string-array name="tukang">
+        <item>Tukang Kayu</item>
+        <item>Tukang Besi dan Las</item>
+        <item>Tukang Atap</item>
+        <item>Tukang Ledeng</item>
+        <item>Tukang Kompor</item>
+        <item>Tukang Taman</item>
+        <item>Tukang Elektronik</item>
+    </string-array>
+
 </resources>
